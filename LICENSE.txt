@@ -1,0 +1,14 @@
+Oche Board licence
+
+Copyright (c) 2026 the Oche project. All rights reserved.
+
+1. You may download, install and use Oche Board for free, at home, in clubs and in pubs.
+2. Use it only with the official Oche apps. Connecting other apps or services to it is not allowed.
+3. Don't sell, rent out, re-upload or share copies. Get it only from the official Oche
+   releases page.
+4. Don't change it, or pass on changed copies. This doesn't limit what the law always allows,
+   or your rights under the licences of the third-party parts listed in
+   THIRD-PARTY-NOTICES.txt (for example replacing the LGPL libraries).
+5. Oche Board comes as it is, without any warranty. The author isn't liable for any damage
+   from using it, as far as the law allows.
+6. Later versions may add paid features. This licence covers the version you have.
